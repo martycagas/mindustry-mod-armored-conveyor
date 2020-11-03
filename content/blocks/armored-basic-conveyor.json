@@ -1,0 +1,12 @@
+{
+    "type": "Conveyor",
+    "category": "Distribution",
+    "name": "Armored Basic Conveyor",
+    "description": "Features better armor than its standard counterpart. Doesn't accept any items from the sides, except from other conveyors.",
+    "size": 1,
+    "tier": 0,
+    "hasPower": false,
+    "hasLiquids": false,
+    "itemCapacity": 2,
+    "research": "conveyor"
+}
