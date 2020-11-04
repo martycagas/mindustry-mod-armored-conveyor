@@ -36,6 +36,10 @@ Download this repository as a ZIP file by clicking the green **Code** button in 
 
 Download this repository as a ZIP file by clicking the green **Code** button in the top right of the repository page and select **Download ZIP**. Extract the downloaded ZIP file directly into the Mindustry's mod folder that can be find in the game files under `Mindustry/saves/mods`.
 
+## Contributing
+
+For information on how to expand this mod, see [CONTRIBUTING](CONTRIBUTING.md).
+
 ## Licensing
 
 This mod is licensed under GPL-3.0, for further details, see [LICENSE](LICENSE). The General Public License was chosen to satisfy the license requirement of the original sprites used in this mod.
