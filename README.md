@@ -1,6 +1,6 @@
 # Mindustry Mod - Armored Basic Conveyor
 
-This is a mod for the Anuke's **Mindustry** game. **Please be aware this mod is still a work in progress!** Turns out the modding API for the game was way more lacking, than it initially appeared. To make even something as simple, as a slightly modified conveyor belt, I am being forced to fish out the working `.json` properties straight from the game's code. *There are no lists of available properties and their values!*
+This is a mod for the Anuke's **Mindustry** game. **Please be aware this mod is still a work in progress!** Turns out the modding API for the game was way more lacking, than it initially appeared. To make even something as simple, as a slightly modified conveyor belt, I am being forced to fish out the working `.json` properties straight from the game's code. _There are no lists of available properties and their values!_
 
 Mindustry is a sandbox resource management game, spiced with tower defense and RTS mechanics. It's a great game and a lot of fun, definitely check it out on [Steam](https://store.steampowered.com/app/1127400/Mindustry/).
 
@@ -34,7 +34,16 @@ Download this repository as a ZIP file by clicking the green **Code** button in 
 
 ### Via extracting the ZIP file into the game's mod folder
 
-Download this repository as a ZIP file by clicking the green **Code** button in the top right of the repository page and select **Download ZIP**. Extract the downloaded ZIP file directly into the Mindustry's mod folder that can be find in the game files under `Mindustry/saves/mods`.
+Download this repository as a ZIP file by clicking the green **Code** button in the top right of the repository page and select **Download ZIP**. Extract the downloaded ZIP file directly into the Mindustry's mod folder, which can be found by default in the following places, depending on your file system:
+
+- Windows: `%APPDATA%\Mindustry\saves\mods\`
+- Windows (Steam version): `C:\Program Files (x86)\Steam\steamapps\common\Mindustry\saves\mods\`
+- Linux: `~/.local/share/Mindustry/saves/mods/`
+- MacOS: `~/Library/Application Support/Mindustry/saves/mods/`
+
+**"These locations differ from those on the official wiki!"**
+
+Yes, that is because I just checked the actual location for the Windows Steam version. Cannot vouch for the rest, though I assume they will follow the same directory structure. The wiki might need an update.
 
 ## Contributing
 
