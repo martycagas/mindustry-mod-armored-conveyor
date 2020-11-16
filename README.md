@@ -1,6 +1,6 @@
 # Mindustry Mod - Armored Basic Conveyor
 
-This is a mod for the Anuke's **Mindustry** game. **Please be aware this mod is still a work in progress!** Turns out the modding API for the game was way more lacking, than it initially appeared. To make even something as simple, as a slightly modified conveyor belt, I am being forced to fish out the working `.json` properties straight from the game's code. _There are no lists of available properties and their values!_
+This is a mod for the Anuke's **Mindustry** game. **Please be aware this mod is still a work in progress!**
 
 Mindustry is a sandbox resource management game, spiced with tower defense and RTS mechanics. It's a great game and a lot of fun, definitely check it out on [Steam](https://store.steampowered.com/app/1127400/Mindustry/).
 
