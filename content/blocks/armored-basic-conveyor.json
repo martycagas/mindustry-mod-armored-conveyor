@@ -6,5 +6,9 @@
     "hasPower": false,
     "hasLiquids": false,
     "itemCapacity": 2,
-    "research": "conveyor"
+    "research": "conveyor",
+    "requirements": [
+        { "item": "copper", "amount": 1 },
+        { "item": "lead", "amount": 2 }
+    ]
 }
