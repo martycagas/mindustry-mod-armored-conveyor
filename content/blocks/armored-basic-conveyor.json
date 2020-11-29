@@ -1,11 +1,6 @@
 {
-    "type": "Conveyor",
+    "type": "ArmoredConveyor",
     "category": "Distribution",
-    "size": 1,
-    "tier": 0,
-    "hasPower": false,
-    "hasLiquids": false,
-    "itemCapacity": 2,
     "research": "conveyor",
     "requirements": [
         { "item": "copper", "amount": 1 },
