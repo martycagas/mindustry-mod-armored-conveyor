@@ -1,6 +1,7 @@
 {
     "type": "ArmoredConveyor",
     "category": "Distribution",
+    "health": 110,
     "research": "conveyor",
     "requirements": [
         { "item": "copper", "amount": 1 },
