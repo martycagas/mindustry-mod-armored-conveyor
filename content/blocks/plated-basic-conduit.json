@@ -1,0 +1,10 @@
+{
+    "type": "ArmoredConduit",
+    "category": "Liquid",
+    "health": 130,
+    "research": "conduit",
+    "requirements": [
+        { "item": "lead", "amount": 1 },
+        { "item": "metaglass", "amount": 1 }
+    ]
+}
