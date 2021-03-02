@@ -2,8 +2,8 @@
     "name": "armored-basic-conveyor",
     "displayName": "Armored Basic Conveyor mod",
     "author": "martycagas",
-    "description": "Armored Basic Conveyor doesn't accept any items from the sides, except from other conveyors.",
-    "version": "0.1",
+    "description": "This [green]JSON[] mod adds two blocks - [gold]Armored Basic Conveyor[] and [gold]Plated Basic Conduit[] to the game.",
+    "version": "1.0",
     "minGameVersion": "105",
     "repo": "martycagas/mindustry-mod-armored-conveyor",
     "dependencies": []
