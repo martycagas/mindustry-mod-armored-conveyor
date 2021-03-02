@@ -2,6 +2,8 @@
     "type": "ArmoredConduit",
     "category": "liquid",
     "health": 130,
+    "liquidCapacity": 10,
+    "liquidPressure": 0.95,
     "research": "conduit",
     "requirements": [
         { "item": "lead", "amount": 1 },
