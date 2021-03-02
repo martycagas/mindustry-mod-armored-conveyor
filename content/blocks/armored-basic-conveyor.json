@@ -1,6 +1,6 @@
 {
     "type": "ArmoredConveyor",
-    "category": "Distribution",
+    "category": "distribution",
     "health": 110,
     "research": "conveyor",
     "requirements": [

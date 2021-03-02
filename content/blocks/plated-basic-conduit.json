@@ -1,6 +1,6 @@
 {
     "type": "ArmoredConduit",
-    "category": "Liquid",
+    "category": "liquid",
     "health": 130,
     "research": "conduit",
     "requirements": [
