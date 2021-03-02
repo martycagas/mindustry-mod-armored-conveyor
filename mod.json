@@ -4,7 +4,7 @@
     "author": "martycagas",
     "description": "Armored Basic Conveyor doesn't accept any items from the sides, except from other conveyors.",
     "version": "0.1",
-    "minGameVersion": "104.6",
+    "minGameVersion": "105",
     "repo": "martycagas/mindustry-mod-armored-conveyor",
     "dependencies": []
 }
