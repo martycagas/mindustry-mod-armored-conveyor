@@ -12,7 +12,7 @@ Armored Basic Conveyor is a simple mod that adds two new early-game blocks to bo
 
 ### ![Armored Basic Conveyor](docs/img/block-armored-basic-conveyor.png) **Armored Basic Conveyor**
 
-Features better armor than its standard counterpart. Doesn't accept any items from the sides, except from other conveyors.
+Features better armor than its standard counterpart. Does not accept any items from the sides, except from other conveyors.
 
 | Property      | Value                                  |
 | ------------- | -------------------------------------- |
@@ -28,7 +28,7 @@ Features better armor than its standard counterpart. Doesn't accept any items fr
 
 ### ![Plated Basic Conduit](docs/img/block-plated-basic-conduit.png) **Plated Basic Conduit**
 
-Features better armor than its standard counterpart. Doesn't accept any input from the sides, except from other conduits. Doesn't leak.
+Features better armor than its standard counterpart. Does not accept any input from the sides, except from other conduits. Does not leak.
 
 | Property        | Value                                        |
 | --------------- | -------------------------------------------- |
