@@ -6,11 +6,40 @@ Also check its source code (and readme!) on [GitHub](https://github.com/Anuken/M
 
 ## About
 
-Armored Basic Conveyor is a simple mod that adds two new blocks to both Survival and Campaign - the **Armored Basic Conveyor** and the **Plated Basic Conduit**. Much like their mid-to-late-game counterparts, these blocks don't feature just better durability - but most importantly - **they don't accept any inputs from the sides, except from other conveyors/conduits**. The Plated Basic Conduit also doesn't leak.
+Armored Basic Conveyor is a simple mod that adds two new early-game blocks to both Survival and Campaign - the **Armored Basic Conveyor** and the **Plated Basic Conduit**. Much like their mid-to-late-game counterparts, these blocks don't feature just better durability - but most importantly - **they don't accept any inputs from the sides, except from other conveyors/conduits**. The Plated Basic Conduit also doesn't leak.
 
-### Why?
+## Blocks
 
-I believe the value of armored/plated blocks is not in their extra health/speed, but in allowing you to build more complex and compact structures. This is missing in the early campaign (before appropriate research), as well as early game (before fabricating Plastanium).
+### ![Armored Basic Conveyor](docs/img/block-armored-basic-conveyor.png) **Armored Basic Conveyor**
+
+Features better armor than its standard counterpart. Doesn't accept any items from the sides, except from other conveyors.
+
+| Property      | Value                                  |
+| ------------- | -------------------------------------- |
+| **General**   |                                        |
+| Health        | 110                                    |
+| Size          | 1x1                                    |
+| Build Time    | 0.03 second                            |
+| Build Cost    | ![copper](docs/img/item-copper.png) x1 |
+|               | ![lead](docs/img/item-lead.png) x2     |
+| **Items**     |                                        |
+| Item Capacity | 4 items                                |
+| Move Speed    | 4.1 items/second                       |
+
+### ![Plated Basic Conduit](docs/img/block-plated-basic-conduit.png) **Plated Basic Conduit**
+
+Features better armor than its standard counterpart. Doesn't accept any input from the sides, except from other conduits. Doesn't leak.
+
+| Property        | Value                                        |
+| --------------- | -------------------------------------------- |
+| **General**     |                                              |
+| Health          | 130                                          |
+| Size            | 1x1                                          |
+| Build Time      | 0.03 second                                  |
+| Build Cost      | ![lead](docs/img/item-lead.png) x1           |
+|                 | ![metaglass](docs/img/item-metaglass.png) x1 |
+| **Liquids**     |                                              |
+| Liquid Capacity | 10 liquid units                              |
 
 ## Supported game versions
 
