@@ -16,8 +16,12 @@ For list of all blocks in the mod, see the [blocks](docs/blocks.md) documentatio
 
 The mod is designed for the game version 6, release `105` and up.
 
-- Tested with the Windows Steam version `125.1`.
-- Tested with the Android version `125.1`.
+Tested with versions:
+
+| Platform        | Version |
+| --------------- | ------- |
+| Windows (Steam) | `125.1` |
+| Android         | `125.1` |
 
 ## Installing
 
