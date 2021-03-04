@@ -10,7 +10,7 @@ Armored Basic Conveyor is a simple mod that adds two new early-game blocks to bo
 
 ## Blocks
 
-For list of all blocks in the mod, see the [blocks](docs/blocks.md) documentation.
+For the list of all blocks in this mod, see the [blocks](docs/blocks.md) documentation.
 
 ## Supported game versions
 
