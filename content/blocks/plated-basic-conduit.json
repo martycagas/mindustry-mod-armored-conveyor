@@ -3,7 +3,7 @@
     "category": "liquid",
     "health": 130,
     "liquidCapacity": 10,
-    "liquidPressure": 0.95,
+    "liquidPressure": 0.97,
     "research": "conduit",
     "requirements": [
         { "item": "lead", "amount": 1 },
