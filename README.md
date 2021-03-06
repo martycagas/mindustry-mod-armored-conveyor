@@ -20,8 +20,8 @@ Tested with versions:
 
 | Platform        | Version |
 | --------------- | ------- |
-| Windows (Steam) | `125.1` |
-| Android         | `125.1` |
+| Windows (Steam) | `126.1` |
+| Android         | `126.1` |
 
 ## Installing
 
